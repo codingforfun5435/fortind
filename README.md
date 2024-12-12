@@ -1,8 +1,12 @@
-**The offical Fort repo for the fort google site**
+<p align="center">
+  <img src="https://lh4.googleusercontent.com/yw6SvYsUd_qMFfrDfflYycsKzR2VoGtU1q4HYAWPx87wKS3BmwtnKsPLDjtI84d0dbHplrbiMHGqVfHgbn8guRA" />
+</p>
 <br>
-fortind is a game site and a app site to access unblocked games and more!
-please report bugs in "issues"
-<br>
-> [!IMPORTANT]
-> This is based on Google evently web server as so it will be slightly slow as Fortind is migrating to that new system
+ <p align="center">
+ the offical fort.ind repo
+</p>
 
+
+# Welcome to fort.ind 
+> [!NOTE]
+> This git is still unfinised most things from fort.ind are not here yet 
