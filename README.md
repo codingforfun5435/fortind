@@ -21,7 +21,7 @@
 fort.ind is a website that i made during the pandemic in 2019 it was a little site at the time and it was used as a unblocked games site over the years it grew to somthing that ive never knew that would be so amazing :D 
 # whats coming? ✨
 - [x] a actual native mac app
-- [ ] a kinda okish web wrapper for windows
+- [x] a kinda okish web wrapper for windows
 - [ ] Add delight to the experience
 - [ ] finish adding emus
 - [x] fix bugs
