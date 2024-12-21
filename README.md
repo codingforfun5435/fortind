@@ -26,5 +26,5 @@ fort.ind is a website that i made during the pandemic in 2019 it was a little si
 - [ ] finish adding emus
 - [x] fix bugs
 - [x] add more flash games
-- [ ] read your guys ideas posted in [the form](https://forms.gle/K14hXqdQjfksyQnA8)
+- [x] read your guys ideas posted in [the form](https://forms.gle/K14hXqdQjfksyQnA8)
 
